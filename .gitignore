@@ -1,0 +1,9 @@
+﻿# Portfolio repo — documentation & media only
+*.exe
+*.dll
+*.zip
+*.7z
+.env
+**/.venv/
+**/node_modules/
+__pycache__/
