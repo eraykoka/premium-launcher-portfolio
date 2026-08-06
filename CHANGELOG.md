@@ -3,6 +3,19 @@
 High-level product history for portfolio readers.  
 Internal commit chatter and proprietary diffs are omitted.
 
+## 1.0.3 — Forgeboard + Skin Studio release
+
+### Added
+- Player-first Home with three-step onboarding and animated voxel scenery
+- Account-scoped Skin Studio with interactive 3D preview and local PNG import
+- Offline skin activation for supported Fabric profiles
+- Searchable Settings control center and clearer profile creation
+
+### Improved
+- Unified titlebar, rail, workspace and status dock
+- Current crimson/violet citadel identity across launcher, installer and Windows icons
+- Defender release auditing and proprietary source/public distribution separation
+
 ## 1.1.x — Product polish wave
 
 ### Added

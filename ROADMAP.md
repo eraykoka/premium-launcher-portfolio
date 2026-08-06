@@ -4,9 +4,9 @@ Themes, not tickets. Dates intentionally flexible.
 
 ## Near term
 
-- Deeper content discovery UX
+- Server-assisted offline skin compatibility guidance
 - Stronger first-run confidence for non-technical players
-- Continuous visual refinement across dense screens
+- Accessibility passes across Skin Studio and dense settings
 - Expanded diagnostics that stay human-readable
 
 ## Mid term

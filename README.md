@@ -42,7 +42,7 @@ Premium Launcher turns Minecraft setup into a clear three-step flow: connect an 
 | Profiles | ![Profiles](images/gallery/02-profiles.png) |
 | Mods | ![Mods](images/gallery/03-mods.png) |
 | Settings | ![Settings](images/gallery/04-settings.png) |
-| Brand atmosphere | ![Hero](images/gallery/home-hero.png) |
+| Skin Studio | ![Skin Studio](images/gallery/05-skins.png) |
 
 More visuals: [Gallery](docs/gallery.md)
 
@@ -63,7 +63,9 @@ Implementation details, authentication internals and build pipelines are intenti
 
 ## Distribution
 
-Official installers and update artifacts are published through [premium-launcher-updates](https://github.com/eraykoka/premium-launcher-updates). The source repository is private.
+[Download the latest Windows installer](https://github.com/eraykoka/premium-launcher-updates/releases/latest/download/PremiumLauncher-Setup.exe) from the official [premium-launcher-updates](https://github.com/eraykoka/premium-launcher-updates/releases) channel. The source repository is private.
+
+Current public release: **v1.0.3**.
 
 ## License
 
