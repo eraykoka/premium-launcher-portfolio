@@ -38,11 +38,11 @@ Premium Launcher turns Minecraft setup into a clear three-step flow: connect an 
 
 | Surface | Preview |
 |---|---|
-| Home | ![Home](images/gallery/01-home.png) |
-| Profiles | ![Profiles](images/gallery/02-profiles.png) |
-| Mods | ![Mods](images/gallery/03-mods.png) |
-| Settings | ![Settings](images/gallery/04-settings.png) |
-| Skin Studio | ![Skin Studio](images/gallery/05-skins.png) |
+| Home | ![Home](images/gallery/forgeboard-v103-home.png) |
+| Profiles | ![Profiles](images/gallery/forgeboard-v103-profiles.png) |
+| Mods | ![Mods](images/gallery/forgeboard-v103-mods.png) |
+| Settings | ![Settings](images/gallery/forgeboard-v103-settings.png) |
+| Skin Studio | ![Skin Studio](images/gallery/forgeboard-v103-skin-studio.png) |
 
 More visuals: [Gallery](docs/gallery.md)
 
