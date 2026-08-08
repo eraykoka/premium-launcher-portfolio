@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eraykoka/premium-launcher-updates/releases/latest"><img src="https://img.shields.io/badge/Download-Windows%20Installer-0078D4?style=for-the-badge" alt="Download" /></a>
+  <a href="https://github.com/erayakbayy/premium-launcher-updates/releases/latest"><img src="https://img.shields.io/badge/Download-Windows%20Installer-0078D4?style=for-the-badge" alt="Download" /></a>
   <img src="https://img.shields.io/badge/Status-Active-2ea44f?style=for-the-badge" alt="Active" />
   <img src="https://img.shields.io/badge/Source-Proprietary-c81e28?style=for-the-badge" alt="Proprietary" />
 </p>
@@ -30,8 +30,8 @@
 | Release integrity | Dedicated update channel · SHA-256 · Defender audit |
 | IP judgment | Source stays private; public docs + media only |
 
-**Download:** [Latest Windows installer](https://github.com/eraykoka/premium-launcher-updates/releases/latest/download/PremiumLauncher-Setup.exe)  
-**Release channel:** [premium-launcher-updates](https://github.com/eraykoka/premium-launcher-updates/releases) · Current: **v1.0.3**
+**Download:** [Latest Windows installer](https://github.com/erayakbayy/premium-launcher-updates/releases/latest/download/PremiumLauncher-Setup.exe)  
+**Release channel:** [premium-launcher-updates](https://github.com/erayakbayy/premium-launcher-updates/releases) · Current: **v1.0.3**
 
 ---
 
@@ -85,6 +85,6 @@ Portfolio text and media for evaluation only. All rights reserved. See [LICENSE]
 
 ## Contact
 
-GitHub: [@eraykoka](https://github.com/eraykoka)
+GitHub: [@erayakbayy](https://github.com/erayakbayy)
 
 <p align="center"><sub>Designed and developed by Eray Akbay.</sub></p>

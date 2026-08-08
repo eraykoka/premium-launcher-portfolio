@@ -6,7 +6,7 @@ Security reports should concern the **shipped Premium Launcher product** and its
 
 ## Reporting
 
-Please contact the maintainer privately via GitHub security advisories (if enabled) or a private message to [@eraykoka](https://github.com/eraykoka).
+Please contact the maintainer privately via GitHub security advisories (if enabled) or a private message to [@erayakbayy](https://github.com/erayakbayy).
 
 Include:
 
