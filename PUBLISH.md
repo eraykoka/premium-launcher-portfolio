@@ -1,22 +1,18 @@
-# Publish to GitHub
-
-This folder is a **local git repo** with an initial commit. It is not linked to GitHub yet (`gh` was not authenticated in the generator environment).
-
-## Create public portfolio repo
+# Publish updates for premium-launcher-portfolio
 
 ```powershell
-cd C:\Users\KOKA\Desktop\portfolio\premium-launcher
 gh auth login
-gh repo create premium-launcher-portfolio --public --source=. --remote=origin --push `
-  --description "Portfolio showcase for Premium Launcher — docs & media only. Proprietary source not included."
+cd "C:\Users\KOKA\Desktop\Github Design\portfolios\premium-launcher"
+git add -A
+git commit -m "Polish portfolio README and recruiter framing"
+git remote remove origin 2>$null
+git remote add origin https://github.com/eraykoka/premium-launcher-portfolio.git
+git push -u origin HEAD:main
+
+gh repo edit eraykoka/premium-launcher-portfolio `
+  --description "Commercial Windows Minecraft launcher — profiles, Skin Studio, mod health, secure updates. Docs & media only." `
+  --homepage "https://github.com/eraykoka/premium-launcher-updates/releases" `
+  --add-topic minecraft --add-topic launcher --add-topic windows --add-topic desktop-app --add-topic python --add-topic portfolio --add-topic product
 ```
 
-## Important
-
-- Do **not** push the private `Premium Launcher` source tree.
-- Do **not** upload installers/EXEs that embed proprietary binaries into the portfolio repo.
-- Replace AI mock gallery frames (`01-home.png` …) with real product screenshots when ready (same filenames).
-
-## Suggested GitHub About blurb
-
-> Commercial Windows Minecraft launcher — profile isolation, mod health, secure updates, studio-depth UI. Portfolio docs only; source is proprietary.
+Do **not** push the private `Premium Launcher` source tree.
